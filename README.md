@@ -5,7 +5,7 @@ This NestJS module adds a Redis connection to your project.
 ## Installation
 
 ```typescript
-import { HealthModule } from "@chqrd/nest-health";
+import { RedisModule } from "@chqrd/nest-redis";
 import { Module } from "@nestjs/common";
 
 @Module({
